@@ -1,7 +1,7 @@
 {
   "name": "amazeui-tree",
-  "version": "0.0.3",
-  "description": "jQuery tree plugin based on Amaze UI.",
+  "version": "0.0.5",
+  "description": "Amaze UI tree 插件",
   "main": "lib/amazeui.tree.js",
   "style": "dist/amazeui.tree.css",
   "scripts": {
@@ -23,16 +23,16 @@
   "bugs": {
     "url": "https://github.com/amazeui/tree/issues"
   },
-  "homepage": "https://github.com/amazeui/tree",
-  "licenses": "MIT",
+  "homepage": "http://amazeui.github.io/tree/",
+  "license": "MIT",
   "devDependencies": {
     "amazeui-doc-util": "latest",
-    "amazeui-gulp-tasks": "^0.0.2",
-    "gulp": "^3.9.0",
-    "run-sequence": "^1.0.2"
+    "amazeui-gulp-tasks": "0.0.7",
+    "gulp": "^3.9.1",
+    "run-sequence": "^1.2.2"
   },
   "dependencies": {
-    "amazeui": "^2.4.0",
+    "amazeui": "^2.7.0",
     "jquery": "^2.1.4"
   },
   "browserify-shim": {

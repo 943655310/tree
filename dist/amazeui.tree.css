@@ -28,7 +28,7 @@
   border: none;
   background: transparent;
   -webkit-transition: all 0.3s;
-          transition: all 0.3s;
+  transition: all 0.3s;
 }
 .am-tree .am-tree-open > .am-tree-branch-header .am-tree-icon-caret {
   position: relative;

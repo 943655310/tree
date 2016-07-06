@@ -10,4 +10,6 @@ gulpfile.js
 .gitignore
 .jshintrc
 .npmignore
+.eslintrc
+.*
 bower.json
